@@ -29,11 +29,11 @@ def print_indices(items):
 
 
 
-    print_indices(['apple', 'berry', 'cherry'])
+    # print_indices(['apple', 'berry', 'cherry'])
 
 
-words1 = ['Python', 'Python', 'Python']
-words2 = ['Lizard', 'Turtle']
+# words1 = ['Python', 'Python', 'Python']
+# words2 = ['Lizard', 'Turtle']
 in_common = []  
 
 def words_in_common(words1, words2):
@@ -94,7 +94,7 @@ def every_other_item(items):
     return items[::2]
 
 
-items = [2, 6006, 700, 42, 6, 59]
+# items = [2, 6006, 700, 42, 6, 59]
 
 def smallest_n_items(items, n):
     """Return the `n` smallest integers in list in descending order.
